@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\bin\Debug\net8.0\Новелла с циклами.exe
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\bin\Debug\net8.0\Новелла с циклами.deps.json
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\bin\Debug\net8.0\Новелла с циклами.runtimeconfig.json
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\bin\Debug\net8.0\Новелла с циклами.dll
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\bin\Debug\net8.0\Новелла с циклами.pdb
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\obj\Debug\net8.0\Новелла с циклами.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\obj\Debug\net8.0\Новелла с циклами.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\obj\Debug\net8.0\Новелла с циклами.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\obj\Debug\net8.0\Новелла с циклами.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\obj\Debug\net8.0\Новелла с циклами.dll
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\obj\Debug\net8.0\refint\Новелла с циклами.dll
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\obj\Debug\net8.0\Новелла с циклами.pdb
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\obj\Debug\net8.0\Новелла с циклами.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\Новелла с циклами\Новелла с циклами\obj\Debug\net8.0\ref\Новелла с циклами.dll
